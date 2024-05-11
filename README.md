@@ -6,7 +6,7 @@
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavcc&show_icons=true&theme=dark)
 
-## Technologies that most usage in my day:
+## Technologies:
 
 <div style='display: flex; gap: 10px; flex-wrap: wrap'>
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg' />
