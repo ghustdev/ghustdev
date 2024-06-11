@@ -6,6 +6,8 @@
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavcc&show_icons=true&theme=dark)
 
+---
+
 ## Technologies:
 
 <div style='display: flex; gap: 20px; flex-wrap: wrap'>
