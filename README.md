@@ -48,3 +48,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-cardoso-c0sta/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gustavoc_costa)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfLzbJsl5L-xPcy2-5iBrHg)
+[![Email](https://img.shields.io/badge/Email-1777a0?style=for-the-badge&logo=email&logoColor=black)](mailto:gustavocardoso0019@gmail.com)
+
