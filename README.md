@@ -1,4 +1,4 @@
-### Hello coders. Here the speaker is Gustavo Cardoso Costa
+### Hello coders. Here the speaker is Gustavo Cardoso Costa 👋
 
 *   ### Programming enthusiast, always active 💪
 *   ### Graduated from the Federal Institute Baiano - Computer Technician 🏰
