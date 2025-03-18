@@ -7,13 +7,14 @@
 ---
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavcc&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavcc&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavcc&show_progress=true)
 ---
 
 ## Technologies:
 
 <div style='display: flex; gap: 20px; flex-wrap: wrap'>
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React.svg' />
+<!--     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React.svg' /> -->
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg' />
