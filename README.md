@@ -5,8 +5,10 @@
 *   ### Competitive programming and projects 🦾
 
 ---
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavcc&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavcc&layout=compact&show_progress=false)
+<div style='display: flex; width: 100%; justfy-contenct: space-betwenn; flex-wrap: wrap'>
+    ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavcc&show_icons=true&theme=onedark)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavcc&layout=compact&show_progress=false)
+</div><br/>
 ---
 
 ## Technologies:
