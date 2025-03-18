@@ -1,10 +1,10 @@
-### Hello coders. Here the speaker is Gustavo Cardoso Costa 👋
+### Hello coders. Here the speaker is Gustavo Cardoso Costa
 
-*   ### Programming enthusiast, always active 💪
-*   ### Graduated from the Federal Institute Baiano - Computer Technician 🏰
-*   ### Currently focused on JS and Python 😶‍🌫️
+*   ### Systems Information @ UFG 🎓
+*   ### Computer Technician @ IFBaiano 🎓
+*   ### Competitive programming and projects 🦾
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavcc&show_icons=true&theme=dark)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavcc&show_icons=true&theme=cobalt)
 
 ---
 
