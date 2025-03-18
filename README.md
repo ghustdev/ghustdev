@@ -4,7 +4,7 @@
 *   ### Computer Technician @ IFBaiano 🎓
 *   ### Competitive programming and projects 🦾
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavcc&show_icons=true&theme=cobalt)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavcc&show_icons=true&theme=onedark)
 
 ---
 
