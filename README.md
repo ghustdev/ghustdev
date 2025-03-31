@@ -6,8 +6,8 @@
 
 ---
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavcc&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavcc&layout=compact&show_progress=false)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=ghustcc&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghustcc&layout=compact&show_progress=false)
 
 
 ---
