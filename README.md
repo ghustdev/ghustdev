@@ -18,15 +18,6 @@
   <img width="49.6%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ghustcc&theme=github_dark&layout=compact&hide_title=true&hide=scss,json,ini,tsConfig,git,rpmspec,ezhil,sql,text,xml,bash,css,html,csv,prisma,toml,other,Image+%28svg%29,Java%20Properties,Git%20Config,GDScript3,ActionScript%203,yaml,markdown,class,properties,textmate,gitignore%20file,idea_module,VBScript,glsl,Unity3D%20Asset" alt="ghustcc status">
 </a>
 
-<a href="#">
-
-</a>
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=ghustcc&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghustcc&layout=compact&show_progress=false)
-
-
----
-
 ## Languages::
 
 <div style='display: flex; gap: 20px; flex-wrap: wrap'>
@@ -40,8 +31,6 @@
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg' />
 </div><br/>
 
----
-
 ## Frameworks, Data Base and Technologies:
 <div style='display: flex; gap: 20px; flex-wrap: wrap'>
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg' />
@@ -53,8 +42,6 @@
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg' />
 </div>
-
----
 
 ## Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-cardosoc-costa/)
