@@ -2,8 +2,8 @@
 
 ---
 
-*   ### Systems Information @ UFG 🎓
-*   ### Computer Technician @ IFBaiano 🎓
+*   ### Systems Information • UFG 🎓
+*   ### Computer Technician • IFBaiano 🎓
 *   ### `Competitive Programming` and Projects 🦾
 *   ### `Software Devaloper` | `Problem Solver`
 
