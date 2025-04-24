@@ -15,7 +15,7 @@
 
 <a href="#">
   <img width="49.8%"  src="https://github-readme-stats.vercel.app/api?username=ghustcc&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&show=reviews,prs_merged,discussions_answered,prs_merged_percentage" alt="ghustcc status" />
-  [![](https://github-readme-stats.vercel.app/api/wakatime?username=ghustcc)](https://github.com/anuraghazra/github-readme-stats)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ghustcc)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 ## Languages::
