@@ -12,7 +12,7 @@
 ## Status
 
 <a href="#">
-  <img width="48%" height="100%"  src="https://github-readme-stats.vercel.app/api?username=@ghustccc&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&show=reviews,prs_merged,discussions_answered,prs_merged_percentage" alt="ghustcc status" />
+  <img width="48%" height="100%"  src="https://github-readme-stats.vercel.app/api?username=@ghustcc&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&show=reviews,prs_merged,discussions_answered,prs_merged_percentage" alt="ghustcc status" />
   <img width="48%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@ghustcc" alt="ghustcc status" />
   <img width="49.6%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ghustcc&theme=github_dark&layout=compact&hide_title=true" alt="ghustcc status">
 </a>
