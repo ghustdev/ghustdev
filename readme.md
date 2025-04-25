@@ -9,8 +9,8 @@
 
 <div font-size: 13px">
   <a href="https://github.com/ghustcc">
-    <img width="49.5%" height="200em" src="https://github-readme-stats.vercel.app/api?username=ghustcc&show_icons=true&theme=dark&hide_border=false&rank_icon=github&show=reviews,prs_merged,discussions_answered,prs_merged_percentage" alt="ghustcc status" />
-    <img width="49.5%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghustcc&layout=compact&langs_count=30&show_icons=true&theme=dark" alt="ghustcc status">
+    <img width="48%" height="300em" src="https://github-readme-stats.vercel.app/api?username=ghustcc&show_icons=true&theme=dark&hide_border=false&rank_icon=github&show=reviews,prs_merged,discussions_answered,prs_merged_percentage" alt="ghustcc status" />
+    <img width="48%" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghustcc&layout=compact&langs_count=30&show_icons=true&theme=dark" alt="ghustcc status">
   </a>
 </div>
 
