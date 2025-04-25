@@ -1,40 +1,41 @@
 ### Gustavo Cardoso Costa 😶‍🌫️
 
-<div style="font-size: 13px"> 
-  *   ### Systems Information • UFG 🎓
-  *   ### Computer Technician • IFBaiano 🎓
-  *   ### `Competitive Programming` and Projects (C, C++ and Python) 🦾
-  *   ### `Software Devaloper` | `Problem Solver`
-</div>
+ *   ### Systems Information • UFG 🎓
+ *   ### Computer Technician • IFBaiano 🎓
+ *   ### `Competitive Programming` and Projects (C, C++ and Python) 🦾
+ *   ### `Software Devaloper` | `Problem Solver`
+
 ## Stats
 
 <div width="100vw" font-size: 13px">
   <a href="https://github.com/ghustcc">
-    <img width="49.5%" height="180em%" src="https://github-readme-stats.vercel.app/api?username=ghustcc&show_icons=true&theme=dark&hide_border=false&rank_icon=github&show=reviews,prs_merged,discussions_answered,prs_merged_percentage" alt="ghustcc status" />
-    <img width="49.5%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghustcc&layout=compact&langs_count=16&show_icons=true&theme=dark" alt="ghustcc status">
+    <img width="49.5%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ghustcc&show_icons=true&theme=dark&hide_border=false&rank_icon=github&show=reviews,prs_merged,discussions_answered,prs_merged_percentage" alt="ghustcc status" />
+    <img width="49.5%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghustcc&layout=compact&langs_count=30&show_icons=true&theme=dark" alt="ghustcc status">
   </a>
 </div>
 
-## Languages::
+## Languages:
 
 <div style='display: flex; gap: 50px; flex-wrap: wrap'>
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/cpp.svg' />
+    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg' />
+    <img style='width:50px' align='center' alt='' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg' />
+    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Light.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg' />
 </div><br/>
 
 ## Frameworks, Data Base and Technologies:
-<div style='display: flex; gap: 50px; flex-wrap: wrap'>
+<div style='display: flex; align-items: center; gap: 50px; flex-wrap: wrap'>
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React.svg' />
+    <img style='width:50px' align='center' alt='' src='https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg' />
+    <img style='width:50px' align='center' alt='' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg' />
+    <img style='width:50px' align='center' alt='' src='https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg' />
