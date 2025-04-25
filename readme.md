@@ -9,8 +9,8 @@
 
 <div font-size: 13px">
   <a href="https://github.com/ghustcc">
-    <img width="49.5%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ghustcc&show_icons=true&theme=dark&hide_border=false&rank_icon=github&show=reviews,prs_merged,discussions_answered,prs_merged_percentage" alt="ghustcc status" />
-    <img width="49.5%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghustcc&layout=compact&langs_count=30&show_icons=true&theme=dark" alt="ghustcc status">
+    <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ghustcc&show_icons=true&theme=dark&hide_border=false&rank_icon=github&show=reviews,prs_merged,discussions_answered,prs_merged_percentage" alt="ghustcc status" />
+    <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghustcc&layout=compact&langs_count=30&show_icons=true&theme=dark" alt="ghustcc status">
   </a>
 </div>
 
@@ -44,9 +44,9 @@
 
 ## Contacts:
 
-<a href="https://www.linkedin.com/in/gustavo-cardosoc-costa/" target="_blank"> <img alt='site' src='https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white' /> </a>
-<a href="https://www.linkedin.com/in/gustavo-cardosoc-costa/" target="_blank"> <img alt='linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /> </a>
-<a href="mailto:gustavocardoso0019@gmail.com" target="_blank"> <img alt='email' src='https://img.shields.io/badge/Email-1777a0?style=for-the-badge&logo=email&logoColor=black' /> </a>
-<a href="https://www.instagram.com/gustavo_cardosoc/" target="_blank"> <img alt='instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /> </a>
-<a href="[https://www.instagram.com/gustavo_cardosoc/](https://www.youtube.com/channel/UCfLzbJsl5L-xPcy2-5iBrHg)" target="_blank"> <img alt='youtube' src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' /> </a>
+<a href="https://www.linkedin.com/in/gustavo-cardosoc-costa/" target="blank"> <img alt='site' src='https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white' /> </a>
+<a href="https://www.linkedin.com/in/gustavo-cardosoc-costa/" target="blank"> <img alt='linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /> </a>
+<a href="mailto:gustavocardoso0019@gmail.com" target="blank"> <img alt='email' src='https://img.shields.io/badge/Email-1777a0?style=for-the-badge&logo=email&logoColor=black' /> </a>
+<a href="https://www.instagram.com/gustavo_cardosoc/" target="blank"> <img alt='instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /> </a>
+<a href="[https://www.instagram.com/gustavo_cardosoc/](https://www.youtube.com/channel/UCfLzbJsl5L-xPcy2-5iBrHg)" target="blank"> <img alt='youtube' src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' /> </a>
 
