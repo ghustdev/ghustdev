@@ -20,6 +20,7 @@
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP_Dark.svg' />
+    <img style='width:50px' align='center' alt='' src='https://www.flaticon.com/free-icon/c_6132222' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg' />
     <img style='width:50px' align='center' alt='' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Light.svg' />
