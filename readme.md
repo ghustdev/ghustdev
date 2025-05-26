@@ -42,7 +42,6 @@
 
 ## Contacts:
 
-<a href="https://www.linkedin.com/in/gustavo-cardosoc-costa/" target="blank"> <img alt='site' src='https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white' /> </a>
 <a href="https://www.linkedin.com/in/gustavo-cardosoc-costa/" target="blank"> <img alt='linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /> </a>
 <a href="mailto:gustavocardoso0019@gmail.com" target="blank"> <img alt='email' src='https://img.shields.io/badge/Email-1777a0?style=for-the-badge&logo=email&logoColor=black' /> </a>
 <a href="https://www.instagram.com/gustavo_cardosoc/" target="blank"> <img alt='instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /> </a>
