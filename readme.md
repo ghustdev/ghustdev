@@ -1,9 +1,10 @@
 ### Gustavo Cardoso Costa 😶‍🌫️
 
- *   ### Systems Information • UFG 🎓
+ *   ### `Systems Information` • UFG 🎓
  *   ### Computer Technician • IFBaiano 🎓
- *   ### `Competitive Programming` and Projects (C, C++ and Python) 🦾
- *   ### `Software Devaloper` | `Problem Solver`
+ *   ### `Competitive Programming` | `Problem Solver` 🦾
+ *   ### `Software Devaloper` | Projects (C++, React, Java) 🦾
+ *   ### Java Developer 🦾
 
 ## Stats
 
