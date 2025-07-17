@@ -4,7 +4,7 @@
  *   ### Computer Technician • IFBaiano 🎓
  *   ### `Competitive Programming` | `Problem Solver` 🦾
  *   ### `Software Devaloper` | Projects (C++, React, Java) 🦾
- *   ### `Java` Developer 🦾
+ *   ### `Java` Developer - Learning 🦾
 
 ## Stats
 
