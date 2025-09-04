@@ -17,13 +17,13 @@
 
 <div style='display: flex; gap: 30px; flex-wrap: wrap'>
     <img style='width:50px' align='center' alt='' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Light.svg' />
+    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg' />
+    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg' />
     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg' />
+    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Light.svg' />
 </div><br/>
 
 ## Frameworks, Data Base and Technologies:
