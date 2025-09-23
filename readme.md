@@ -5,11 +5,13 @@
  *   ### `Competitive Programming` | `Problem Solver` 🦾
  *   ### `Software Devaloper` | Projects (C++, React, Java, Python) 🦾
  *   ### `Java` Developer - Learning 🦾
+<br/>
 
 <div style="display: flex; align-items: center; font-size: 10px">
     <img width="1584" height="396" alt="professional - background" src="https://github.com/user-attachments/assets/e9dba83d-b86f-44a4-b224-51b8ee24f203" />
     <!-- <img width="49.5%" height="250em" src="https://github-readme-stats.vercel.app/api?username=ghustdev&show_icons=true&theme=dark&hide_border=false&rank_icon=github&show=reviews,prs_merged,discussions_answered,prs_merged_percentage" alt="ghustcc status" /> -->
-</div>
+</div> <br/>
+
 ## Stats
 
 <div style="display: flex; align-items: center; font-size: 10px">
