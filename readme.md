@@ -2,8 +2,8 @@
 
  *   ### `Systems Information` • UFG 🎓
  *   ### Computer Technician • IFBaiano 🎓
- *   ### `Competitive Programming` | `Problem Solver` 🦾
- *   ### `Software Devaloper` | Projects (C++, React, Java, Python) 🦾
+ *   ### `Competitive Programming` | `Problem Solver` (C e C++)🦾
+ *   ### `Software Devaloper` | Projects (Python, Java, React) 🦾
  *   ### `Java` Developer - Learning 🦾
 <br/>
 
