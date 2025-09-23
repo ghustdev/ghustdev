@@ -14,8 +14,8 @@
 ## Stats
 
 <div style="display: flex; align-items: center; font-size: 10px">
-    <img width="44.5%" height="300em" src="https://github-readme-stats.vercel.app/api?username=ghustdev&show_icons=true&theme=dark&hide_border=false&rank_icon=github&show=reviews,prs_merged,discussions_answered,prs_merged_percentage" alt="ghustcc status" />
-    <img width="54.5%" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghustdev&layout=compact&langs_count=30&show_icons=true&theme=dark" alt="ghustcc status">
+    <img width="39.5%" height="400em" src="https://github-readme-stats.vercel.app/api?username=ghustdev&show_icons=true&theme=dark&hide_border=false&rank_icon=github&show=reviews,prs_merged,discussions_answered,prs_merged_percentage" alt="ghustcc status" />
+    <img width="60.5%" height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghustdev&layout=compact&langs_count=30&show_icons=true&theme=dark" alt="ghustcc status">
 </div>
 
 ## Languages:
