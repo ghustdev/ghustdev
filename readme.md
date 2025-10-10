@@ -3,12 +3,11 @@
  *   ### `Systems Information` • UFG 🎓
  *   ### Informatics Technician • IFBaiano 🎓
  *   ### `Competitive Programming` | `Problem Solver` (C e C++) 🦾
- *   ### `Software Devaloper` | Projects (Python, Java, React) 🦾
- *   ### `Java` Developer - Learning 🦾
+ *   ### `Software Devaloper` | Projects (Java, React, TypeScript) 🦾
 <br/>
 
 <div style="display: flex; align-items: center; font-size: 10px">
-    <img width="1584" height="396" alt="Cópia de professional - background" src="https://github.com/user-attachments/assets/9c563839-a576-4e03-af7f-96b6990c1294" />
+    <img width="1584" height="396" alt="professional - background" src="https://github.com/user-attachments/assets/e79ca826-1823-43ec-b583-9a48e0411de7" />
 </div> <br/>
 
 ## Stats
