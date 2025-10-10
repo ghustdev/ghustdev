@@ -3,7 +3,7 @@
  *   ### `Systems Information` • UFG 🎓
  *   ### Informatics Technician • IFBaiano 🎓
  *   ### `Competitive Programming` | `Problem Solver` (C e C++) 🦾
- *   ### `Software Devaloper` | Projects (Java, React, TypeScript) 🦾
+ *   ### `Software Devaloper` | Projects (Java, TypeScript) 🦾
 <br/>
 
 <div style="display: flex; align-items: center; font-size: 10px">
