@@ -1,55 +1,44 @@
-### Gustavo Cardoso Costa 😶‍🌫️
+<h1 align="center">Hi there, I'm Gustavo Cardoso Costa 😶‍🌫️</h1>
+<h3 align="center">Enthusiast of Competitive Prog. | Problem Solver | Software Developer | Information Systems • UFG | Informatics Technician • IF</h3>
 
- *   ### `Systems Information` • UFG 🎓
- *   ### Informatics Technician • IFBaiano 🎓
- *   ### `Competitive Programming` | `Problem Solver` (C e C++) 🦾
- *   ### `Software Devaloper` | Projects (Automation, Java, Next.js, Rect, TypeScript) 🦾
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghustdev&label=Profile%20views&color=0e75b6&style=flat" alt="ghustdev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghustdev" alt="ghustdev" /></a> </p>
+
+- 🔭 I’m currently working on **AgroBanana - a Saas for Projeto Formoso - Bom Jesus da Lapa**
+
+- 🌱 I’m currently learning **C++ and Algorithms for Competitive Prog., T3 Stack (Node, Next.js, React, Saas) and Java for Back End**
+
+- 👯 I’m looking to collaborate on **Projects of University**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ghustdev](https://github.com/ghustdev)
+
+- 💬 Ask me about **C++, Saas and Java**
+
+- 📫 How to reach me **gustavocardoso0019@gmail.com**
+
+- 📄 Know about my experiences [💪 - Atuei como Técnico e bolsista do Laboratório de Tecnologia da Informação e Mídias Educacionais da UFG (LabTIME / LabVerso), no qual participei da área de coleta e tratamento de dados, técnico de informática e equipamentos (MoCap), apoio a pesquisas e projetos, animações e desenvolvimento e experimentação (Unreal Engine). - Atuei no Administrativo e Financeiro (Gestão) da Level 5, principal empresa Júnior de tecnologia da UFG - Samambaia, na qual gerenciava o fluxo financeiro, questões administrativas e a organização de setores. Onde pude entrar em contato com o mundo empresarial e conhecer várias pessoas e ferramentas, onde também pude desenvolver habilidades administrativas e tecnológicas. - Conclui o curso Técnico em Informática pelo Instituto Federal, onde construí diversos projetos e aprendi muito sobre desenvolvimento de software e informática. - Estou cursando Sistemas de Informação com objetivo de aperfeiçoar e buscar novos conhecimentos na área de tecnologia. - Problem Solver, Software Developer, Saas e Back-End Java em formação. 🎖 Habilidades principais: - C / C++ para lógica, algoritmos e programação competitiva - Saas (T3 Stack) - Java - Banco de Dados - SQL - Python - JavaScript - React - HTML - CSS - Github e Git - Unreal Engine - Inglês intermediário (B1). 🎖️ Grandes conquistas: - 1° posição do 6° Ideathon Hub Goiás + Innovation Grid (🥇) - Medalhas em Olimpíadas - OBA e OBMEP (🥈) - Participação em Hackathons e Ideathons 🦾 Habilidades auxiliares: - Técnico em informática e equipamentos. - Gestão empresarial e financeira. - Comunicativo, interessado, dedicado, proativo, trabalho em equipe, organizado e sempre aprendo habilidades essenciais com muita facilidade.](💪 Experiências: - Atuei como Técnico e bolsista do Laboratório de Tecnologia da Informação e Mídias Educacionais da UFG (LabTIME / LabVerso), no qual participei da área de coleta e tratamento de dados, técnico de informática e equipamentos (MoCap), apoio a pesquisas e projetos, animações e desenvolvimento e experimentação (Unreal Engine). - Atuei no Administrativo e Financeiro (Gestão) da Level 5, principal empresa Júnior de tecnologia da UFG - Samambaia, na qual gerenciava o fluxo financeiro, questões administrativas e a organização de setores. Onde pude entrar em contato com o mundo empresarial e conhecer várias pessoas e ferramentas, onde também pude desenvolver habilidades administrativas e tecnológicas. - Conclui o curso Técnico em Informática pelo Instituto Federal, onde construí diversos projetos e aprendi muito sobre desenvolvimento de software e informática. - Estou cursando Sistemas de Informação com objetivo de aperfeiçoar e buscar novos conhecimentos na área de tecnologia. - Problem Solver, Software Developer, Saas e Back-End Java em formação. 🎖 Habilidades principais: - C / C++ para lógica, algoritmos e programação competitiva - Saas (T3 Stack) - Java - Banco de Dados - SQL - Python - JavaScript - React - HTML - CSS - Github e Git - Unreal Engine - Inglês intermediário (B1). 🎖️ Grandes conquistas: - 1° posição do 6° Ideathon Hub Goiás + Innovation Grid (🥇) - Medalhas em Olimpíadas - OBA e OBMEP (🥈) - Participação em Hackathons e Ideathons 🦾 Habilidades auxiliares: - Técnico em informática e equipamentos. - Gestão empresarial e financeira. - Comunicativo, interessado, dedicado, proativo, trabalho em equipe, organizado e sempre aprendo habilidades essenciais com muita facilidade.)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/ghustdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ghustdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gustavo-cardosoc-costa" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="gustavo-cardosoc-costa" height="30" width="40" /></a>
+<a href="https://instagram.com/gustavo_cardosoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustavo_cardosoc" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ghustcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ghustcc" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ghustdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ghustdev" height="30" width="40" /></a>
+<a href="https://discord.gg/gustavcard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gustavcard" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghustdev&show_icons=true&locale=en&layout=compact" alt="ghustdev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghustdev&show_icons=true&locale=en" alt="ghustdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghustdev&" alt="ghustdev" /></p>
+
 
 <div style="display: flex; align-items: center; font-size: 10px">
     <img width="1584" height="396" alt="professional - background" src="https://github.com/user-attachments/assets/e79ca826-1823-43ec-b583-9a48e0411de7" />
 </div> <br/>
-
-## Stats
-
-<div style="display: flex; align-items: center; font-size: 10px">
-    <img width="39.5%" height="250em" src="https://github-readme-stats.vercel.app/api?username=ghustdev&show_icons=true&theme=dark&hide_border=false&rank_icon=github&show=reviews,prs_merged,discussions_answered,prs_merged_percentage" alt="ghustcc status" />
-    <img width="58.5%" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghustdev&layout=compact&langs_count=30&show_icons=true&theme=dark" alt="ghustcc status">
-</div>
-
-## Languages:
-
-<div style='display: flex; gap: 30px; flex-wrap: wrap'>
-    <img style='width:50px' align='center' alt='' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Light.svg' />
-</div><br/>
-
-## Frameworks, Data Base and Technologies:
-
-<div style='display: flex; align-items: center; gap: 30px; flex-wrap: wrap'>
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg' />
-<!--     <img style='width:50px' align='center' alt='' src='https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg' /> -->
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg' />
-<!--     <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg' /> -->
-    <img style='width:50px' align='center' alt='' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg' />
-    <img style='width:50px' align='center' alt='' src='https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg' />
-    <img style='width:50px' align='center' alt='' src='https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg' />
-    <img style='width:50px' align='center' alt='' src='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg' />
-</div>
-
-## Contacts:
-
-<a href="https://www.linkedin.com/in/gustavo-cardosoc-costa/" target="blank"> <img alt='linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /> </a>
-<a href="mailto:gustavocardoso0019@gmail.com" target="blank"> <img alt='email' src='https://img.shields.io/badge/Email-1777a0?style=for-the-badge&logo=email&logoColor=black' /> </a>
-<a href="https://www.instagram.com/gustavo_cardosoc/" target="blank"> <img alt='instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /> </a>
-
-
