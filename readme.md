@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Gustavo Cardoso Costa 😶‍🌫️</h1>
-<h3 align="center">Enthusiast of Competitive Prog. | Problem Solver | Software Developer | Information Systems • UFG | Informatics Technician • IF</h3>
+<h3 align="center">Enthusiast of Competitive Programming | Problem Solver | Software Developer and SaaS | Information Systems • UFG | Informatics Technician • IF</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghustdev&label=Profile%20views&color=0e75b6&style=flat" alt="ghustdev" /> </p>
 
