@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghustdev" alt="ghustdev" /></a> </p>
 
-- 🔭 I’m currently working on **AgroBanana - Saas for Projeto Formoso - Bom Jesus da Lapa**
+- 🔭 Working on **AgroBanana - SaaS**
 
-- 🌱 I’m currently learning **C++ and Algorithms for Competitive Prog., T3 Stack (Node, Next.js, React, Saas) and Java for Back End**
+- 🎯 Learning **C++ and Algorithms for Competitive Programming, T3 Stack (Node, Next.js, React, SaaS) for SaaS and Full-Stack and Java for Back-End**
 
-- 👯 I’m looking to collaborate on **Projects of University**
+- 🎓 Collaborate on **Projects of University**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ghustdev](https://github.com/ghustdev)
+- 👨‍💻 My projects are available at [https://github.com/ghustdev](https://github.com/ghustdev)
 
-- 💬 Ask me about **C++, Saas and Java**
+- 💬 Ask me about **C++, SaaS (StartUps) and Developmen Web**
 
 - 📫 How to reach me **gustavocardoso0019@gmail.com**
 
