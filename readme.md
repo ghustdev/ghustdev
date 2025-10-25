@@ -13,7 +13,7 @@
 
 - 👨‍💻 My projects are available at [https://github.com/ghustdev](https://github.com/ghustdev)
 
-- 💬 Ask me about **C++, SaaS (StartUps) and Developmen Web**
+- 💬 Ask me about **C++, SaaS (StartUps) and Development Web**
 
 - 📫 How to reach me **gustavocardoso0019@gmail.com**
 
