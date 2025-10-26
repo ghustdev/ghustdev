@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghustdev" alt="ghustdev" /></a> </p>
 
-- 🔭 Working on **AgroBanana - SaaS**
+- 🔭 Working on **AgroBanana - SaaS and Projects**
 
-- 🎯 Learning **C++ and Algorithms for Competitive Programming, T3 Stack (Node, Next.js, React, SaaS) for SaaS and Full-Stack and Java for Back-End**
+- 🎯 Learning **C++ and Algorithms for Competitive Programming, T3 Stack (Node, Next.js, React, SaaS) for SaaS and Full-Stack**
 
 - 🎓 Collaborate on **Projects of University**
 
