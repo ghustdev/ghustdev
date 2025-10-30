@@ -21,12 +21,12 @@
 
 <h3 align="left">Contact:</h3>
 <p align="left">
-<!-- <a href="https://dev.to/ghustdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ghustdev" height="30" width="40" /></a> -->
+<a href="https://dev.to/ghustdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DevTo-Dark.svg" alt="ghustdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gustavo-cardosoc-costa" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="gustavo-cardosoc-costa" height="30" width="40" /></a>
-<a href="https://instagram.com/gustavo_cardosoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustavo_cardosoc" height="30" width="40" /></a>
+<a href="https://instagram.com/gustavo_cardosoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" alt="gustavo_cardosoc" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ghustcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ghustcc" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ghustdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ghustdev" height="30" width="40" /></a>
-<a href="https://discord.gg/gustavcard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gustavcard" height="30" width="40" /></a>
+<a href="https://discord.gg/gustavcard" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="gustavcard" height="30" width="40" /></a>
 </p>
 
 <h1 align="center"></h1>
