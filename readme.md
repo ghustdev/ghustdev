@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Gustavo Cardoso Costa 😶‍🌫️</h1>
 <h3 align="center">Enthusiast of Competitive Programming | Problem Solver | Software Developer and SaaS | Information Systems • UFG | Informatics Technician • IF</h3>
+<h1 align="center"></h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghustdev" alt="ghustdev" /></a> </p>
 
@@ -60,7 +61,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghustdev&show_icons=true&locale=en" alt="ghustdev" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghustdev&" alt="ghustdev" /></p> -->
+<h1 align="center"></h1>
 
 <div style="display: flex; align-items: center; font-size: 10px">
     <img width="1584" height="396" alt="professional - background" src="https://github.com/user-attachments/assets/e79ca826-1823-43ec-b583-9a48e0411de7" />
