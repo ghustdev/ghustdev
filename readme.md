@@ -51,7 +51,8 @@
 <h4 align="left">Back-End and DB</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,postman" />
+    <!-- nestjs,prisma -->
   </a>
 </p>
 
