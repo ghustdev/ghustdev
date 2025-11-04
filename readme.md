@@ -6,7 +6,7 @@
 
 <h1 align="center"></h1>
 
-- 🔭 Working on **AgroBanana - SaaS and Projects**
+- 🔭 Working on **TabNews Clone, AgroBanana (SaaS) and Projects**
 
 - 🎯 Learning **C++ and Algorithms for Competitive Programming, T3 Stack (Node, Next.js, React, SaaS) for SaaS and Full-Stack**
 
