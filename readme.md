@@ -58,9 +58,35 @@
 
 <h1 align="center"></h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghustdev&show_icons=true&locale=en&layout=compact" alt="ghustdev" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ghustdev
+    &show_icons=true
+    &include_all_commits=true
+    &count_private=true
+    &show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered,issues_closed
+    &theme=radical
+    &hide_border=false
+    &rank_icon=percentile
+    &custom_title=Estatísticas%20Completas%20do%20Perfil"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ghustdev
+    &layout=compact
+    &langs_count=100
+    &hide_border=false
+    &theme=radical"
+  />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ghustdev&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ghustdev&theme=radical&hide_border=false" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghustdev&show_icons=true&locale=en" alt="ghustdev" /></p>
 
 <h1 align="center"></h1>
 
