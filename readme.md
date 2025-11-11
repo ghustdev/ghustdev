@@ -22,10 +22,10 @@
 
 <h1 align="center"></h1>
 
-<p align="center">
+<p align="left" width="40%">
   <img src="https://github-readme-stats.vercel.app/api?username=ghustdev&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered,issues_closed&theme=radical&hide_border=false&rank_icon=percentile&custom_title=Estatísticas%20Completas%20do%20Perfil" />
 </p>
-<p align="center">
+<p align="right" width="40%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghustdev&layout=compact&langs_count=100&hide_border=false&theme=radical" />
 </p>
 
