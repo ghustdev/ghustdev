@@ -2,7 +2,9 @@
 <h3 align="center">Enthusiast of Competitive Programming | Problem Solver | Software Developer and SaaS | Information Systems • UFG | Informatics Technician • IF</h3>
 <h1 align="center"></h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghustdev" alt="ghustdev" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ghustdev&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
 <h1 align="center"></h1>
 
@@ -71,6 +73,7 @@
     &custom_title=Estatísticas%20Completas%20do%20Perfil"
   />
 </p>
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ghustdev
@@ -80,13 +83,10 @@
     &theme=radical"
   />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghustdev&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ghustdev&theme=radical&hide_border=false" />
 </p>
-
 
 <h1 align="center"></h1>
 
