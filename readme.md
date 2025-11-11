@@ -68,10 +68,6 @@
 <a href="https://discord.gg/gustavcard" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="gustavcard" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ghustdev&theme=radical&hide_border=false" />
-</p>
-
 <h1 align="center"></h1>
 
 <div style="display: flex; align-items: center; font-size: 10px">
