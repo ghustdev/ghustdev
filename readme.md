@@ -8,7 +8,7 @@
 
 <h1 align="center"></h1>
 
-- 🔭 Working on **TabNews Clone,SaaS and Projects**
+- 🔭 Working on **TabNews Clone, SaaS, Hackathons and Projects**
 
 - 🎯 Learning **C++ and Algorithms for Competitive Programming, T3 Stack (Node, Next.js, React, SaaS) for SaaS and Full-Stack**
 
