@@ -12,9 +12,7 @@
 
 - 🎯 Learning **C++ and Algorithms for Competitive Programming, T3 Stack (Node, Next.js, React, SaaS) for SaaS and Full-Stack**
 
-- 🎓 Collaborate on **Projects of University**
-
-- 👨‍💻 My projects are available at [https://github.com/ghustdev](https://github.com/ghustdev)
+- 🎓 Collaborate on **Projects of University and Hackathons**
 
 - 💬 Ask me about **C++, SaaS (StartUps) and Development Web**
 
