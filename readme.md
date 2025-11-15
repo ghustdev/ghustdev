@@ -35,7 +35,7 @@
 <h4 align="left">Languages and Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,git,github,vscode,ubuntu,notion,unreal" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,java,git,github,vscode,ubuntu,notion,unreal" />
   </a>
 </p>
 <h1 align="center"></h1>
