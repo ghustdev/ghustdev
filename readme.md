@@ -63,7 +63,7 @@
 <a href="https://instagram.com/gustavo_cardosoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" alt="gustavo_cardosoc" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ghustcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ghustcc" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ghustdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ghustdev" height="30" width="40" /></a>
-<a href="https://mailto:gustavocardoso0019@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="ghustdev" height="30" width="40" /></a>
+<a href="mailto:gustavocardoso0019@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="ghustdev" height="30" width="40" /></a>
 </p>
 
 <h1 align="center"></h1>
