@@ -35,7 +35,7 @@
 <h4 align="left">Languages and Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,php,git,github,vscode,ubuntu,notion" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,git,github,vscode,ubuntu,notion,unreal" />
   </a>
 </p>
 <h1 align="center"></h1>
@@ -49,7 +49,7 @@
 <h4 align="left">Back-End and DB</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,postgres,mysql,redis,postman" />
     <!-- nestjs,prisma -->
   </a>
 </p>
