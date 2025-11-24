@@ -10,7 +10,7 @@
 
 - 🔭 Working on **TabNews Clone, SaaS, Hackathons and Projects**
 
-- 🎯 Learning **C++ and Algorithms for Competitive Programming, T3 Stack (Node, Next.js, React, SaaS) for SaaS and Full-Stack**
+- 🎯 Learning **C++ and Algorithms for Competitive Programming, T3 and MERN Stack (Node, Next.js, React, Express) for SaaS and Full-Stack**
 
 - 🎓 Collaborate on **Projects of University and Hackathons**
 
