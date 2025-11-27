@@ -69,5 +69,5 @@
 <h1 align="center"></h1>
 
 <div style="display: flex; align-items: center; font-size: 10px">
-    <img width="1584" height="396" alt="professional - background" src="https://github.com/user-attachments/assets/e79ca826-1823-43ec-b583-9a48e0411de7" />
+  <img width="1584" height="396" alt="Professional - Background LinkedIn" src="https://github.com/user-attachments/assets/8c0303b7-43e3-4b93-8e60-593f8bfd9f51" />
 </div> <br/>
