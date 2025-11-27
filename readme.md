@@ -49,7 +49,7 @@
 <h4 align="left">Back-End and DB</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,postgres,mysql,redis,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,postgres,mysql,postman&theme=dark" />
     <!-- nestjs,prisma -->
   </a>
 </p>
