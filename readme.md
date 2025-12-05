@@ -14,7 +14,7 @@
 
 - 🎓 Collaborate on **Projects of University and Hackathons**
 
-- 💬 Ask me about **C++, SaaS (StartUps) and Development Web**
+- 💬 Ask me about **C++, SaaS (Startups) and Software Engineer**
 
 - 📫 How to reach me **gustavocardoso0019@gmail.com**
 
