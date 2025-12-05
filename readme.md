@@ -26,6 +26,8 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghustdev&layout=compact&langs_count=100&hide_border=false&theme=radical" />
 
+  ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 </div>
 
 <h1 align="center"></h1>
