@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Gustavo Cardoso Costa 😶‍🌫️</h1>
-<h3 align="center">Desenvolvedor Full Stack | JavaScript | Node | C++ | Problem Solving | Startups | Information Systems • UFG | Informatics Technician • IF</h3>
+<h3 align="center">Full Stack Developer | JavaScript | Node | C++ | Problem Solving | Startups | Information Systems • UFG | Informatics Technician • IF</h3>
 <h1 align="center"></h1>
 
 <p align="center">
