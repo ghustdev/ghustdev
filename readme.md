@@ -12,7 +12,7 @@
 
 - 🎯 Learning **C++ and Algorithms for Competitive Programming, MERN Stack (Node, Next.js, React, Express) for SaaS and Full Stack**
 
-- 🎓 Collaborate on **Projects of University and Hackathons**
+- 🎓 Collaborate on **Projects of Aceleradoras Ágeis, University and Hackathons**
 
 - 💬 Ask me about **C++, SaaS, Startups and Software Engineer**
 
@@ -71,5 +71,5 @@
 <h1 align="center"></h1>
 
 <div style="display: flex; align-items: center; font-size: 10px">
-  <img width="1584" height="396" alt="Professional - Background LinkedIn" src="https://github.com/user-attachments/assets/8c0303b7-43e3-4b93-8e60-593f8bfd9f51" />
+  <img width="1584" height="396" alt="Professional - Background LinkedIn" src="https://github.com/user-attachments/assets/6d138cc7-d26d-489c-a48e-380dfd4a0aae" />
 </div> <br/>
