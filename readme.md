@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Gustavo Cardoso Costa 😶‍🌫️</h1>
-<h3 align="center">Full Stack Developer | JavaScript | Node | C++ | Problem Solving | Startups | Information Systems • UFG | Informatics Technician • IF</h3>
+<h3 align="center">FullStack Developer | Java | JavaScript | C++ | Problem Solving | Startups | Information Systems • UFG | Informatics Technician • IF</h3>
 <h1 align="center"></h1>
 
 <p align="center">
@@ -8,13 +8,13 @@
 
 <h1 align="center"></h1>
 
-- 🔭 Working on **TabNews Clone, SaaS, Hackathons and Projects**
+- 🔭 Working on **Acelera ZG (FullSatck), TabNews Clone, Hackathons and Projects**
 
-- 🎯 Learning **C++ and Algorithms for Competitive Programming, MERN Stack (Node, Next.js, React, Express) for SaaS and Full Stack**
+- 🎯 Learning **Java, JavaScript, DB for FullStack and SaaS | C++ and Algorithms for Competitive Programming**
 
-- 🎓 Collaborate on **Projects of Aceleradoras Ágeis, University and Hackathons**
+- 🎓 Collaborate on **Acelera ZG, University and Hackathons**
 
-- 💬 Ask me about **C++, SaaS, Startups and Software Engineer**
+- 💬 Ask me about **Java, C++, FullStack, Startups and Software Engineer**
 
 - 📫 How to reach me **gustavocardoso0019@gmail.com**
 
