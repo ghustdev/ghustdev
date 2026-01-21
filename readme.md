@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Gustavo Cardoso Costa 😶‍🌫️</h1>
-<h3 align="center">FullStack Developer | Java | JavaScript | C++ | Problem Solving | Startups | Information Systems • UFG | Informatics Technician • IF</h3>
+<h3 align="center">FullStack Developer | Java | JavaScript | C++ | Project Management | Problem Solving | Startups & Founder | Information Systems • UFG | Informatics Technician • IF</h3>
 <h1 align="center"></h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ghustdev&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+</p> -->
 
-<h1 align="center"></h1>
+<!-- <h1 align="center"></h1> -->
 
 - 🔭 Working on **Acelera ZG (FullSatck), TabNews Clone, Hackathons and Projects**
 
@@ -71,5 +71,5 @@
 <h1 align="center"></h1>
 
 <div style="display: flex; align-items: center; font-size: 10px">
-  <img width="1584" height="396" alt="Professional - Background LinkedIn" src="https://github.com/user-attachments/assets/6d138cc7-d26d-489c-a48e-380dfd4a0aae" />
+  <img width="1584" height="396" alt="Professional - Background LinkedIn" src="https://github.com/user-attachments/assets/90594be1-fa56-41be-9fdc-459a635aacb0" />
 </div> <br/>
