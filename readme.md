@@ -7,6 +7,18 @@
 </p> -->
 
 <!-- <h1 align="center"></h1> -->
+😶‍🌫️ I'm an Information Systems student (UFG) and a software developer in training, focusing on Back-End / Full Stack Java and with a strong foundation in logic, data structures, and problem-solving.
+
+I have a technical degree in Computer Science from the Federal Institute, participated in an ICT Residency program (180 hours), and am currently part of an intensive Full Stack Java training program, with practical projects, teamwork, mentoring, and dynamics similar to corporate experience.
+
+I have been consistently preparing myself for the market through:
+
+- Developing real-world projects
+- Building a technical portfolio
+- Continuous study of algorithms and competitive programming
+- Improving soft skills and collaborative work
+
+<h1 align="center"></h1>
 
 - 🔭 Working on **Acelera ZG (FullSatck), TabNews Clone, Hackathons and Projects**
 
@@ -37,7 +49,7 @@
 <h4 align="left">Languages and Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,py,git,linux,github,vscode,notion,jira&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,py,git,linux,github,vscode,notion&theme=light" />
   </a>
 </p>
 <h1 align="center"></h1>
