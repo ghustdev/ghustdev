@@ -37,21 +37,21 @@
 <h4 align="left">Languages and Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,py,git,github,vscode,ubuntu,notion,unreal&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,py,git,linux,github,vscode,notion,jira&theme=light" />
   </a>
 </p>
 <h1 align="center"></h1>
 <h4 align="left">Front-End</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,tailwind,nextjs" />
+    <img src="https://skillicons.dev/icons?i=js,ts,css,html,angular,react,nextjs" />
   </a>
 </p>
 <h1 align="center"></h1>
 <h4 align="left">Back-End and DB</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,postgres,mysql,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql,postman&theme=dark" />
     <!-- nestjs,prisma -->
   </a>
 </p>
