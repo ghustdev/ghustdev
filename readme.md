@@ -56,7 +56,7 @@ I have been consistently preparing myself for the market through:
 <h4 align="left">Front-End</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,css,html,angular,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,nextjs" />
   </a>
 </p>
 <h1 align="center"></h1>
