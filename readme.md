@@ -2,11 +2,13 @@
 <h3 align="center">Full Stack Developer | Back End | Java | JavaScript | C++ | Problem Solving | Project Management | Startups & Founder | Information Systems • UFG | Informatics Technician • IF</h3>
 <h1 align="center"></h1>
 
+<img width="1584" height="396" alt="Professional - Background LinkedIn" src="https://github.com/user-attachments/assets/918449e8-f4ed-43b2-b811-7e65c56d773e" />
+<h1 align="center"></h1>
+
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ghustdev&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
 </p> -->
 
-<!-- <h1 align="center"></h1> -->
 😶‍🌫️ I'm an Information Systems student (UFG) and a software developer in training, focusing on Back-End / Full Stack Java and with a strong foundation in logic, data structures, and problem-solving.
 
 I have a technical degree in Computer Science from the Federal Institute, participated in an ICT Residency program (180 hours), and am currently part of an intensive Full Stack Java training program, with practical projects, teamwork, mentoring, and dynamics similar to corporate experience.
@@ -35,11 +37,11 @@ I have been consistently preparing myself for the market through:
 
 <div align="center">
 
-   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghustdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&rank_icon=percentile" />  -->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghustdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&rank_icon=percentile" /> 
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghustdev&layout=compact&langs_count=100&hide_border=false&theme=radical" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghustdev&show_icons=true&theme=radical" />
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghustdev&show_icons=true&theme=radical" /> -->
 
 </div>
 
@@ -65,7 +67,6 @@ I have been consistently preparing myself for the market through:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql,postman&theme=dark" />
-    <!-- nestjs,prisma -->
   </a>
 </p>
 
@@ -84,5 +85,6 @@ I have been consistently preparing myself for the market through:
 <h1 align="center"></h1>
 
 <div style="display: flex; align-items: center; font-size: 10px">
-  <img width="1584" height="396" alt="Professional - Background LinkedIn" src="https://github.com/user-attachments/assets/90594be1-fa56-41be-9fdc-459a635aacb0" />
+  <img width="1584" height="396" alt="Professional - Background LinkedIn (1)" src="https://github.com/user-attachments/assets/45438188-fb8b-44cf-8bc2-9bc2c23ee87c" />
+
 </div> <br/>
