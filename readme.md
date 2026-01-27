@@ -23,7 +23,7 @@ I have been consistently preparing myself for the market through:
 
 <h1 align="center"></h1>
 
-- 🔭 Working on **Acelera ZG (Full Satck), TabNews Clone (Curso.dev) and University Projects**
+- 🔭 Working on **[Acelera ZG](https://github.com/ghustdev/ZG-Hero-project) (Full Satck), [TabNews Clone](https://github.com/ghustdev/tabnews-clone) (Curso.dev), [3G1B](https://github.com/ghustdev/3G1B-startup) and University Projects**
 
 - 🎯 Learning **Java, Data Base, System Design, SOftware Engineer and JavaScript for Full Stack Developer and SaaS**
 
