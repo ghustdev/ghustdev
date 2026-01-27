@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Gustavo Cardoso Costa 😶‍🌫️</h1>
-<h3 align="center">FullStack Developer | Java | JavaScript | C++ | Project Management | Problem Solving | Startups & Founder | Information Systems • UFG | Informatics Technician • IF</h3>
+<h3 align="center">Full Stack Developer | Back End | Java | JavaScript | C++ | Problem Solving | Project Management | Startups & Founder | Information Systems • UFG | Informatics Technician • IF</h3>
 <h1 align="center"></h1>
 
 <!-- <p align="center">
@@ -17,16 +17,17 @@ I have been consistently preparing myself for the market through:
 - Building a technical portfolio
 - Continuous study of algorithms and competitive programming
 - Improving soft skills and collaborative work
+- IA and Tecnology enthusiast
 
 <h1 align="center"></h1>
 
-- 🔭 Working on **Acelera ZG (FullSatck), TabNews Clone, Hackathons and Projects**
+- 🔭 Working on **Acelera ZG (Full Satck), TabNews Clone (Curso.dev) and University Projects**
 
-- 🎯 Learning **Java, JavaScript, DB for FullStack and SaaS | C++ and Algorithms for Competitive Programming**
+- 🎯 Learning **Java, Data Base, System Design, SOftware Engineer and JavaScript for Full Stack Developer and SaaS**
 
 - 🎓 Collaborate on **Acelera ZG, University and Hackathons**
 
-- 💬 Ask me about **Java, C++, FullStack, Startups and Software Engineer**
+- 💬 Ask me about **Java, C++, Full Stack, Startups and Software Engineer**
 
 - 📫 How to reach me **gustavocardoso0019@gmail.com**
 
