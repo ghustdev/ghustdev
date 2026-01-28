@@ -25,7 +25,7 @@ I have been consistently preparing myself for the market through:
 
 - 🔭 Working on **[Acelera ZG](https://github.com/ghustdev/ZG-Hero-project) (Full Satck), [TabNews Clone](https://github.com/ghustdev/tabnews-clone) (Curso.dev), [3G1B](https://github.com/ghustdev/3G1B-startup) and University Projects**
 
-- 🎯 Learning **Java, Data Base, System Design, SOftware Engineer and JavaScript for Full Stack Developer and SaaS**
+- 🎯 Learning **Java, Data Base, System Design, Software Engineer and JavaScript for Full Stack Developer and SaaS**
 
 - 🎓 Collaborate on **Acelera ZG, University and Hackathons**
 
