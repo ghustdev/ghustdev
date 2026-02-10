@@ -41,7 +41,7 @@ I have been consistently preparing myself for the market through:
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghustdev&layout=compact&langs_count=100&hide_border=false&theme=radical" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghustdev&show_icons=true&theme=radical" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghustdev&show_icons=true&theme=radical" /> -->
 
 </div>
 
