@@ -51,9 +51,8 @@ I have been consistently preparing myself for the market through:
 
 <h4 align="left">Languages and Tools</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,py,groovy&theme=light" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,py&theme=light" />
+    <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/6aa0c581-5366-4290-ab71-672caa45b432" />
 </p>
 <h1 align="center"></h1>
 <h4 align="left">Front-End</h4>
