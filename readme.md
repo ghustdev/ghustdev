@@ -49,7 +49,7 @@ I have been consistently preparing myself for the market through:
 
 <h3 align="left">My Skills:</h3>
 
-<h4 align="left">Languages and Tools</h4>
+<h4 align="left">Languages</h4>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,py&theme=light" />
     <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/6aa0c581-5366-4290-ab71-672caa45b432" />
