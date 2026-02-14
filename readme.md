@@ -52,21 +52,21 @@ I have been consistently preparing myself for the market through:
 <h4 align="left">Languages and Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,py,git,linux,github,vscode,notion&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,py,groovy&theme=light" />
   </a>
 </p>
 <h1 align="center"></h1>
 <h4 align="left">Front-End</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=css,html,react,nextjs" />
   </a>
 </p>
 <h1 align="center"></h1>
-<h4 align="left">Back-End and DB</h4>
+<h4 align="left">Back-End, DB and Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql,postman,git,github,linux,vscode,notion&theme=dark" />
   </a>
 </p>
 
