@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Gustavo Cardoso Costa 😶‍🌫️</h1>
-<h3 align="center">Full Stack Developer | Back End | Java | JavaScript | C++ | Problem Solving | Project Management | Startups & Founder | Information Systems • UFG | Informatics Technician • IF</h3>
+<h3 align="center">Full Stack Developer | Back End | Java - Spring | Groovy - Grails | JavaScript | TypeScript | C++ | Problem Solving | Project Management | Startups | Information Systems • UFG | Informatics Technician • IF</h3>
 <h1 align="center"></h1>
 
 <img width="1584" height="396" alt="Professional - Background LinkedIn" src="https://github.com/user-attachments/assets/918449e8-f4ed-43b2-b811-7e65c56d773e" />
@@ -12,7 +12,7 @@
 
 😶‍🌫️ I'm an Information Systems student (UFG) and a software developer in training, focusing on Back-End / Full Stack Java and with a strong foundation in logic, data structures, and problem-solving.
 
-I have a technical degree in Computer Science from the Federal Institute, participated in an ICT Residency program (180 hours), and am currently part of an intensive Full Stack Java training program, with practical projects, teamwork, mentoring, and dynamics similar to corporate experience.
+I have a technical degree in Computer Science from the Federal Institute, participated in an ICT Residency program (180 hours), and am currently part of an intensive Full Stack Java and Groovy training program, with practical projects, teamwork, mentoring, and dynamics similar to corporate experience.
 
 I have been consistently preparing myself for the market through:
 
@@ -26,11 +26,11 @@ I have been consistently preparing myself for the market through:
 
 - 🔭 Working on **[Acelera ZG](https://github.com/ghustdev/ZG-Hero-project) (Full Satck), [TabNews Clone](https://github.com/ghustdev/tabnews-clone) (Curso.dev), [3G1B](https://github.com/ghustdev/3G1B-startup) and University Projects**
 
-- 🎯 Learning **Java, Data Base, System Design, Software Engineer and JavaScript for Full Stack Developer and SaaS**
+- 🎯 Learning **Java, Groovy, Data Base, System Design, Software Engineer and JavaScript for Full Stack Developer and SaaS**
 
 - 🎓 Collaborate on **Acelera ZG, University and Hackathons**
 
-- 💬 Ask me about **Java, C++, Full Stack, Startups and Software Engineer**
+- 💬 Ask me about **Java, Groovy, C++, Full Stack, Startups and Software Engineer**
 
 - 📫 How to reach me **gustavocardoso0019@gmail.com**
 
