@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Gustavo Cardoso Costa 😶‍🌫️</h1>
-<h3 align="center">Full Stack Developer | Back End | Java - Spring | Groovy - Grails | JavaScript | TypeScript | C++ | Problem Solving | Project Management | Startups | Information Systems • UFG | Informatics Technician • IF</h3>
+<h3 align="center">Full Stack Developer | Back End | Java • Spring | Groovy • Grails | JavaScript • TypeScript | C/C++ • Problem Solving | Project Management | Startups | Information Systems • UFG | Informatics Technician • IF</h3>
 <h1 align="center"></h1>
 
 <img width="1584" height="396" alt="Professional - Background LinkedIn" src="https://github.com/user-attachments/assets/918449e8-f4ed-43b2-b811-7e65c56d773e" />
