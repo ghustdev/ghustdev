@@ -61,7 +61,7 @@ I have been consistently preparing myself for the market through:
   </a>
 </p>
 <h1 align="center"></h1>
-<h4 align="left">Back-End & DB</h4>
+<h4 align="left">Back-End, DB & Tests</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql&theme=dark" />
