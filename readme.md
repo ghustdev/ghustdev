@@ -51,7 +51,9 @@ I have been consistently preparing myself for the market through:
 <h4 align="left">Languages</h4>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,py&theme=light" />
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c7861884-6172-4bee-870a-5d80152c2209" />
     <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/6aa0c581-5366-4290-ab71-672caa45b432" />
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/168dc452-4d31-4e43-9d1a-e3777dae2a77" />
 </p>
 <h1 align="center"></h1>
 <h4 align="left">Front-End</h4>
