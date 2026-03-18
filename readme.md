@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Gustavo Cardoso Costa 😶‍🌫️</h1>
+<h1 align="center">I'm Gustavo Cardoso Costa 😶‍🌫️</h1>
 <h3 align="center">Full Stack Developer | Java/Groovy • Back End Developer | JavaScript/TypeScript • Front End Developer | SQL | C/C++ • Problem Solving | Project Management | Startups/SaaS | Information Systems • UFG | Informatics Technician • IF</h3>
 <h1 align="center"></h1>
 
