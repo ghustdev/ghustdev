@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack Developer | Java/Groovy • Back End Developer | JavaScript/TypeScript • Front End Developer | SQL | C/C++ • Problem Solving | Project Management | Startups/SaaS | Information Systems • UFG | Informatics Technician • IF</h3>
 <h1 align="center"></h1>
 
-<img width="1584" height="396" alt="Professional - Background LinkedIn" src="https://github.com/user-attachments/assets/918449e8-f4ed-43b2-b811-7e65c56d773e" />
+<!-- <img width="1584" height="396" alt="Professional - Background LinkedIn" src="https://github.com/user-attachments/assets/918449e8-f4ed-43b2-b811-7e65c56d773e" />
 
-<h1 align="center"></h1>
+<h1 align="center"></h1> -->
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ghustdev&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
@@ -92,6 +92,7 @@ I have been consistently preparing myself for the market through:
 <h1 align="center"></h1>
 
 <div style="display: flex; align-items: center; font-size: 10px">
-  <img width="1584" height="396" alt="Professional - Background LinkedIn (1)" src="https://github.com/user-attachments/assets/45438188-fb8b-44cf-8bc2-9bc2c23ee87c" />
+  <!-- <img width="1584" height="396" alt="Professional - Background LinkedIn (1)" src="https://github.com/user-attachments/assets/45438188-fb8b-44cf-8bc2-9bc2c23ee87c" /> -->
+  <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/2c7647d1-3c5d-496b-9522-64f10e2ede53" />
 
 </div> <br/>
