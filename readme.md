@@ -26,7 +26,7 @@ I have been consistently preparing myself for the market through:
 
 <h1 align="center"></h1>
 
-- 🔭 Working on **[Acelera ZG](https://github.com/ghustdev/ZG-Hero-project) (Full Satck), [TabNews Clone](https://github.com/ghustdev/tabnews-clone) (Curso.dev), [3G1B](https://github.com/ghustdev/3G1B-startup) and University Projects**
+- 🔭 Working on **[Acelera ZG](https://github.com/ghustdev/ZG-Hero-project) (Full Satck Developer), [TabNews Clone](https://github.com/ghustdev/tabnews-clone) (Curso.dev), [3G1B](https://github.com/ghustdev/3G1B-startup) and University Projects**
 
 - 🎯 Learning **Java, Groovy, Data Base, System Design, Software Engineer and JavaScript for Full Stack Developer**
 
@@ -52,30 +52,31 @@ I have been consistently preparing myself for the market through:
 
 <h4 align="left">Languages</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,py&theme=light" />
-    <img width="60" height="60" alt="image" padding="5px" src="https://github.com/user-attachments/assets/6aa0c581-5366-4290-ab71-672caa45b432" />
+    <img width="50" height="50" alt="image" padding="5px" src="https://github.com/user-attachments/assets/6aa0c581-5366-4290-ab71-672caa45b432" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c&theme=light" />
 </p>
 <h1 align="center"></h1>
 <h4 align="left">Front-End</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=css,html,angular,react,figma" />
   </a>
 </p>
 <h1 align="center"></h1>
 <h4 align="left">Back-End, DB & Tests</h4>
 <p align="center">
   <a href="https://skillicons.dev">
+    <img width="50" height="50" alt="image" padding="5px" src="https://grails.apache.org/images/grails_logo.svg" />
+    <img width="50" height="50" alt="image" padding="5px" src="https://github.com/user-attachments/assets/168dc452-4d31-4e43-9d1a-e3777dae2a77" />
     <img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql&theme=dark" />
     <img width="50" height="50" alt="image" padding="5px" src="https://github.com/user-attachments/assets/c7861884-6172-4bee-870a-5d80152c2209" />
-    <img width="50" height="50" alt="image" padding="5px" src="https://github.com/user-attachments/assets/168dc452-4d31-4e43-9d1a-e3777dae2a77" />
   </a>
 </p>
 <h1 align="center"></h1>
 <h4 align="left">Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,git,github,linux,vscode,notion&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,postman,git,github,linux,notion&theme=dark" />
   </a>
 </p>
 
