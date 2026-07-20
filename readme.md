@@ -28,7 +28,7 @@ I have been consistently preparing myself for the market through:
 
 - 🔭 Working on **[Acelera ZG](https://github.com/ghustdev/ZG-Hero-project) (Full Satck Developer), [TabNews Clone](https://github.com/ghustdev/tabnews-clone) (Curso.dev), [3G1B](https://github.com/ghustdev/3G1B-startup) and University Projects**
 
-- 🎯 Learning **Java, Groovy, Data Base, System Design, Software Engineer and JavaScript for Full Stack Developer**
+- 🎯 Learning **Java (Spting), Groovy (Grails), TypeScript (Angular), Docker, PosgreSQL, System Design and Software Engineer for Full Stack Developer**
 
 - 🎓 Collaborate on **Acelera ZG, University and Hackathons**
 
@@ -69,6 +69,7 @@ I have been consistently preparing myself for the market through:
     <img width="50" height="50" alt="image" padding="5px" src="https://grails.apache.org/images/grails_logo.svg" />
     <img width="50" height="50" alt="image" padding="5px" src="https://github.com/user-attachments/assets/168dc452-4d31-4e43-9d1a-e3777dae2a77" />
     <img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql&theme=dark" />
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/18c2d927-11a2-49fc-a433-6bf3c6e55bca" />
     <img width="50" height="50" alt="image" padding="5px" src="https://github.com/user-attachments/assets/c7861884-6172-4bee-870a-5d80152c2209" />
   </a>
 </p>
@@ -76,7 +77,7 @@ I have been consistently preparing myself for the market through:
 <h4 align="left">Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,postman,git,github,linux,notion&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,kafka,git,github,linux,postman,notion&theme=dark" />
   </a>
 </p>
 
